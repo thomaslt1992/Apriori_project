@@ -1,6 +1,10 @@
 ============================================ README ======================================================
 ==========================================================================================================
 ==========================================================================================================
+<<<TO MENTION>>>:
+<<<Under the condition that you run this jupyter on your machine the visualization is interactive and you can see each item's description.>>>
+
+
 In order to run this script you have to have python (ver 3.7 or higher) and jupyter notebook in your computer
 
 All the csv files should be present in the same folder with the script in order to run properly.
